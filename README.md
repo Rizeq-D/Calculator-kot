@@ -10,18 +10,18 @@ The app allows users to perform basic arithmetic operations such as addition, su
 - **Real-Time Calculation**: Display updates in real-time as the user inputs numbers and operations.
 - **Clear Function**: Clear the display and reset the calculation with a single button.
 
-##Usage
+## Usage
 Tap the buttons to input numbers and operations.
 Press = to get the result.
 Use the C button to clear the display and start a new calculation.
 
-##Code Structure
+## Code Structure
 MainActivity.kt: The main activity where all the logic for button clicks and calculations is handled.
 activity_main.xml: The layout file containing the UI elements like buttons and display TextView.
 
-##Contributing
+## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
